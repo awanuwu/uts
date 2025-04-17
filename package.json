@@ -1,7 +1,7 @@
 {
   "name": "uts",
   "version": "1.0.0",
-  "description": "Simulasi CI login",
+ "description": "Simulasi Continuous Integration untuk fitur login",
   "main": "login.js",
   "scripts": {
     "test": "jest"
